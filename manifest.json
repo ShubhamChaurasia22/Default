@@ -7,13 +7,13 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "https://cdn-icons-png.flaticon.com/128/3916/3916579.png",
+            "src": "https://cdn-icons-png.flaticon.com/128/8150/8150203.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "https://cdn-icons-png.flaticon.com/128/3916/3916579.png",
+            "src": "https://cdn-icons-png.flaticon.com/128/8150/8150203.png",
             "sizes": "512x512",
             "type": "image/png"
         }
