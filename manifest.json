@@ -7,13 +7,13 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "https://cdn-icons-png.flaticon.com/192/192/8150203.png",
+            "src": "https://cdn1.iconfinder.com/data/icons/metaversy-metaverse-3d-object/256/11._Metaverse_Gate.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "https://cdn-icons-png.flaticon.com/512/512/8150203.png",
+            "src": "https://cdn1.iconfinder.com/data/icons/metaversy-metaverse-3d-object/256/11._Metaverse_Gate.png",
             "sizes": "512x512",
             "type": "image/png"
         }
