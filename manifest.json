@@ -1,0 +1,21 @@
+{
+    "name": "Vinod",
+    "short_name": "Vinod",
+    "start_url": "./",
+    "background_color": "#1bd377",
+    "theme_color": "#319197",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/128/3916/3916579.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/128/3916/3916579.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
